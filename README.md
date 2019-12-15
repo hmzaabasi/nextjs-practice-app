@@ -2,7 +2,9 @@
 
 Title explains everything.
 
-https://robohash.org/9?set=set2
+For online resources => https://robohash.org/9?set=set2
+
+For NextJs Deployment => https://github.com/MRCollective/nextjs-server-azuresiteextension
 
 VS Code Settings {
 

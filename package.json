@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint-config-defaults": "^9.0.0",
-    "next": "^9.3.2",
+    "next": "^11.1.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   }
